@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloGeek", "BloGeek\BloGeek.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloGeek.Tests", "BloGeek.Tests\BloGeek.Tests.csproj", "{8E5CC404-5999-4925-AEF9-70CE10245FF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRFramework", "CRFramework\CRFramework.csproj", "{47137663-694E-4091-B327-C5A6923E62C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47137663-694E-4091-B327-C5A6923E62C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47137663-694E-4091-B327-C5A6923E62C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47137663-694E-4091-B327-C5A6923E62C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47137663-694E-4091-B327-C5A6923E62C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
