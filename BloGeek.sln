@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloGeek", "BloGeek\BloGeek.csproj", "{117BF972-31CB-4256-AB4B-E96DD69D829E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloGeek.Tests", "BloGeek.Tests\BloGeek.Tests.csproj", "{8E5CC404-5999-4925-AEF9-70CE10245FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117BF972-31CB-4256-AB4B-E96DD69D829E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117BF972-31CB-4256-AB4B-E96DD69D829E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117BF972-31CB-4256-AB4B-E96DD69D829E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117BF972-31CB-4256-AB4B-E96DD69D829E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5CC404-5999-4925-AEF9-70CE10245FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
